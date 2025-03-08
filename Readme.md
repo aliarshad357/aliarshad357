@@ -35,7 +35,7 @@
         <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://sld.com.pk/wp-content/uploads/2023/06/SRB-feature.jpg">
     </td>
  
 </tr>
