@@ -1,6 +1,6 @@
 <body>
   <div align="center">
-    <h1> Hi there, I'm Syed Arshad Ali👋<a href="https://hammad-air.github.io/SyedArshadAli/"></h1>
+    <h1> Hi there, I'm Syed Arshad Ali👋<a href="https://aliarshad357.github.io/SyedArshadAli/"></h1>
   </div>
 <p align="center">
 <a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Mern+Stack+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
@@ -9,11 +9,11 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Partner @ AR Associates 🤖
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 Taxation and Corporate Compliance Professional
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Help Clients via taxation and corporate affairs support
 
 📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
@@ -22,11 +22,11 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fopenai-chatgpt-logo-icon-free-png.webp?alt=media&token=7f1e7f67-d80a-4e04-9d39-c37007c3f547" >
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" >
     </td>
 
   <td align='center' width="200">
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fgoogle-ai-gemini91216.logowik.com.webp?alt=media&token=2e4ad51e-4dec-4382-927b-0c2fdf5faa46"  >
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png"  >
     </td>
  <td align='center' width="200">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
